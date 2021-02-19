@@ -1,0 +1,1 @@
+set bootargs noinitrd root=/dev/nfs rw nfsroot=192.168.1.1:/home/renchy/100ask/nfs_root ip=192.168.1.17:192.168.1.1:192.168.1.254:255.255.255.0::eth0:off init=/linuxrc console=ttySAC0 user_debug=31 nfsvers=3
